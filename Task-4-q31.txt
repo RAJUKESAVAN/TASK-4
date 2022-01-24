@@ -1,0 +1,15 @@
+JSON is based on key and value there is some different on program
+
+
+var obj1 ={
+    "name":"Person",
+    "age":"5"
+}
+console.log(obj1);
+
+
+var obj2 ={
+    "age":"5",
+    "name":"Person"
+}
+console.log(obj2);
